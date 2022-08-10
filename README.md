@@ -1,4 +1,4 @@
-# Matching-By-Distances-And-Preferences
+# Matching By Distances And Preferences
 
 This program receives a grid with bikes, visitors and obstacles and finds the optimal matching of bikes and visitors according to the distance of the bikes to the visitors and the visitors preferences. 
 To do this, the BFS and Gale-Shapley algorithms were used. The inputs follow the format:
